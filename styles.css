@@ -1,0 +1,12 @@
+.positive-content {
+  padding: 20px;
+  margin: 10px;
+  background-color: #f0f8ff;
+  border: 2px solid #87ceeb;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 18px;
+  font-family: Arial, sans-serif;
+  color: #333;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}

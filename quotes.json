@@ -1,0 +1,367 @@
+[
+  {
+    "content": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "tag": "Motivation"
+  },
+  {
+    "content": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "tag": "Inspiration"
+  },
+  {
+    "content": "It always seems impossible until it's done.",
+    "author": "Nelson Mandela",
+    "tag": "Perseverance"
+  },
+  {
+    "content": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "tag": "Success"
+  },
+  {
+    "content": "The future belongs to those who believe in the beauty of their dreams.",
+    "author": "Eleanor Roosevelt",
+    "tag": "Dreams"
+  },
+  {
+    "content": "Don't watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson",
+    "tag": "Perseverance"
+  },
+  {
+    "content": "The best time to plant a tree was 20 years ago. The second best time is now.",
+    "author": "Chinese Proverb",
+    "tag": "Opportunity"
+  },
+  {
+    "content": "You are never too old to set another goal or to dream a new dream.",
+    "author": "C.S. Lewis",
+    "tag": "Dreams"
+  },
+  {
+    "content": "Act as if what you do makes a difference. It does.",
+    "author": "William James",
+    "tag": "Motivation"
+  },
+  {
+    "content": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "tag": "Inspiration"
+  },
+  {
+    "content": "Start where you are. Use what you have. Do what you can.",
+    "author": "Arthur Ashe",
+    "tag": "Action"
+  },
+  {
+    "content": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "tag": "Opportunity"
+  },
+  {
+    "content": "The way to get started is to quit talking and begin doing.",
+    "author": "Walt Disney",
+    "tag": "Action"
+  },
+  {
+    "content": "Do what you can, with what you have, where you are.",
+    "author": "Theodore Roosevelt",
+    "tag": "Action"
+  },
+  {
+    "content": "The best revenge is massive success.",
+    "author": "Frank Sinatra",
+    "tag": "Success"
+  },
+  {
+    "content": "Happiness is not something ready-made. It comes from your own actions.",
+    "author": "Dalai Lama",
+    "tag": "Happiness"
+  },
+  {
+    "content": "The mind is everything. What you think you become.",
+    "author": "Buddha",
+    "tag": "Mindset"
+  },
+  {
+    "content": "Your time is limited, don't waste it living someone else's life.",
+    "author": "Steve Jobs",
+    "tag": "Life"
+  },
+  {
+    "content": "Strive not to be a success, but rather to be of value.",
+    "author": "Albert Einstein",
+    "tag": "Success"
+  },
+  {
+    "content": "Life is 10% what happens to us and 90% how we react to it.",
+    "author": "Charles R. Swindoll",
+    "tag": "Mindset"
+  },
+  {
+    "content": "The only person you are destined to become is the person you decide to be.",
+    "author": "Ralph Waldo Emerson",
+    "tag": "Self-Improvement"
+  },
+  {
+    "content": "Whether you think you can or you think you can't, you're right.",
+    "author": "Henry Ford",
+    "tag": "Mindset"
+  },
+  {
+    "content": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "tag": "Action"
+  },
+  {
+    "content": "You must be the change you wish to see in the world.",
+    "author": "Mahatma Gandhi",
+    "tag": "Change"
+  },
+  {
+    "content": "It does not matter how slowly you go as long as you do not stop.",
+    "author": "Confucius",
+    "tag": "Perseverance"
+  },
+  {
+    "content": "Dream big and dare to fail.",
+    "author": "Norman Vaughan",
+    "tag": "Dreams"
+  },
+  {
+    "content": "The harder I work, the luckier I get.",
+    "author": "Gary Player",
+    "tag": "Hard Work"
+  },
+  {
+    "content": "Success is walking from failure to failure with no loss of enthusiasm.",
+    "author": "Winston Churchill",
+    "tag": "Success"
+  },
+  {
+    "content": "The only place where success comes before work is in the dictionary.",
+    "author": "Vidal Sassoon",
+    "tag": "Hard Work"
+  },
+  {
+    "content": "You can't use up creativity. The more you use, the more you have.",
+    "author": "Maya Angelou",
+    "tag": "Creativity"
+  },
+  {
+    "content": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain",
+    "tag": "Action"
+  },
+  {
+    "content": "The best preparation for tomorrow is doing your best today.",
+    "author": "H. Jackson Brown Jr.",
+    "tag": "Preparation"
+  },
+  {
+    "content": "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.",
+    "author": "Roy T. Bennett",
+    "tag": "Dreams"
+  },
+  {
+    "content": "The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it.",
+    "author": "Jordan Belfort",
+    "tag": "Mindset"
+  },
+  {
+    "content": "The only way to achieve the impossible is to believe it is possible.",
+    "author": "Charles Kingsleigh",
+    "tag": "Belief"
+  },
+  {
+    "content": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "tag": "Inspiration"
+  },
+  {
+    "content": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+    "author": "Helen Keller",
+    "tag": "Happiness"
+  },
+  {
+    "content": "The only thing we have to fear is fear itself.",
+    "author": "Franklin D. Roosevelt",
+    "tag": "Courage"
+  },
+  {
+    "content": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "tag": "Action"
+  },
+  {
+    "content": "The best way to find yourself is to lose yourself in the service of others.",
+    "author": "Mahatma Gandhi",
+    "tag": "Service"
+  },
+  {
+    "content": "The only true wisdom is in knowing you know nothing.",
+    "author": "Socrates",
+    "tag": "Wisdom"
+  },
+  {
+    "content": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+    "author": "Edmund Burke",
+    "tag": "Courage"
+  },
+  {
+    "content": "The only thing that interferes with my learning is my education.",
+    "author": "Albert Einstein",
+    "tag": "Learning"
+  },
+  {
+    "content": "The only thing we have to decide is what to do with the time that is given us.",
+    "author": "J.R.R. Tolkien",
+    "tag": "Time"
+  },
+  {
+    "content": "The only thing standing between you and your dream is the will to try and the belief that it is actually possible.",
+    "author": "Joel Brown",
+    "tag": "Dreams"
+  },
+  {
+    "content": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "tag": "Motivation"
+  },
+  {
+    "content": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "tag": "Inspiration"
+  },
+  {
+    "content": "The only thing that stands between you and your dream is the will to try and the belief that it is actually possible.",
+    "author": "Joel Brown",
+    "tag": "Dreams"
+  },
+  {
+    "content": "The only way to achieve the impossible is to believe it is possible.",
+    "author": "Charles Kingsleigh",
+    "tag": "Belief"
+  },
+  {
+    "content": "The only thing we have to fear is fear itself.",
+    "author": "Franklin D. Roosevelt",
+    "tag": "Courage"
+  },
+  {
+    "content": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+    "author": "Edmund Burke",
+    "tag": "Courage"
+  },
+  {
+    "content": "The only thing that interferes with my learning is my education.",
+    "author": "Albert Einstein",
+    "tag": "Learning"
+  },
+  {
+    "content": "The only thing we have to decide is what to do with the time that is given us.",
+    "author": "J.R.R. Tolkien",
+    "tag": "Time"
+  },
+  {
+    "content": "The only way to achieve the impossible is to believe it is possible.",
+    "author": "Charles Kingsleigh",
+    "tag": "Belief"
+  },
+  {
+    "content": "The best way to predict the future is to invent it.",
+    "author": "Alan Kay",
+    "tag": "Innovation"
+  },
+  {
+    "content": "The only thing that stands between you and your dream is the will to try and the belief that it is actually possible.",
+    "author": "Joel Brown",
+    "tag": "Dreams"
+  },
+  {
+    "content": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "tag": "Inspiration"
+  },
+  {
+    "content": "The only thing we have to fear is fear itself.",
+    "author": "Franklin D. Roosevelt",
+    "tag": "Courage"
+  },
+  {
+    "content": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+    "author": "Edmund Burke",
+    "tag": "Courage"
+  },
+  {
+    "content": "The only thing that interferes with my learning is my education.",
+    "author": "Albert Einstein",
+    "tag": "Learning"
+  },
+  {
+    "content": "The only thing we have to decide is what to do with the time that is given us.",
+    "author": "J.R.R. Tolkien",
+    "tag": "Time"
+  },
+  {
+    "content": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "tag": "Motivation"
+  },
+  {
+    "content": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "tag": "Inspiration"
+  },
+  {
+    "content": "The only thing that stands between you and your dream is the will to try and the belief that it is actually possible.",
+    "author": "Joel Brown",
+    "tag": "Dreams"
+  },
+  {
+    "content": "The only way to achieve the impossible is to believe it is possible.",
+    "author": "Charles Kingsleigh",
+    "tag": "Belief"
+  },
+  {
+    "content": "The only thing we have to fear is fear itself.",
+    "author": "Franklin D. Roosevelt",
+    "tag": "Courage"
+  },
+  {
+    "content": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+    "author": "Edmund Burke",
+    "tag": "Courage"
+  },
+  {
+    "content": "The only thing that interferes with my learning is my education.",
+    "author": "Albert Einstein",
+    "tag": "Learning"
+  },
+  {
+    "content": "The only thing we have to decide is what to do with the time that is given us.",
+    "author": "J.R.R. Tolkien",
+    "tag": "Time"
+  },
+  {
+    "content": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "tag": "Motivation"
+  },
+  {
+    "content": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "tag": "Inspiration"
+  },
+  {
+    "content": "The only thing that stands between you and your dream is the will to try and the belief that it is actually possible.",
+    "author": "Joel Brown",
+    "tag": "Dreams"
+  },
+  {
+    "content": "The only way to achieve the impossible is to believe it is possible.",
+    "author": "Charles Kingsleigh",
+    "tag": "Belief"
+  }
+]
